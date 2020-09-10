@@ -1,0 +1,642 @@
+<!doctype html public "-//w3c//dtd html 3.2//en">
+
+<html>
+
+<head>
+<title>Pokémon Emerald - In-Game Trades</title>
+<meta name="GENERATOR" content="Arachnophilia 4.0">
+<meta name="FORMATTER" content="Arachnophilia 4.0">
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="imagetoolbar" CONTENT="no">
+<!-- GDPR Compliancy -->
+<!-- NetworkN CMP Tool -->
+<script>
+window.cmpConfig = {
+    globalVendorListLocation:'https://cmp.network-n.com/vendorlist.json',
+    customLogo: 'https://www.serebii.net/extralogo.png',
+    customLogoLink: 'https://www.serebii.net/',
+    customLogoTitle: 'Serebii.net'
+};
+
+!function(e,a){if(function(e){"string"==typeof e&&(e=[e]);for(var n=0;n<e.length;n++)a.cookie=e[n]+
+"=;max-age=-1;domain=."+a.domain+";path=/"}(["euconsent","eupubconsent","googlepersonalization"]),
+!e.__cmp){e.__cmp=function(){(e.attachEvent||e.addEventListener)("message",function(a){e.__cmp.receiveMessage(a)}
+,!1),function n(){if(!e.frames.__cmpLocator)if(a.body){var o=a.createElement("iframe");o.style.display="none",
+o.name="__cmpLocator",a.body.appendChild(o)}else setTimeout(n,5)}();var n=[],o=function(a,o,c){"ping"===a?c&&c({
+gdprAppliesGlobally:!!(e.__cmp&&e.__cmp.config&&e.__cmp.config.storeConsentGlobally),cmpLoaded:!1}):
+n.push({command:a,parameter:o,callback:c})};return o.commandQueue=n,o.receiveMessage=function(e){
+var a=e&&e.data&&e.data.__cmpCall;a&&n.push({callId:a.callId,command:a.command,parameter:a.parameter,
+event:e})},o.config=e.cmpConfig||{globalVendorListLocation:"https://cmp.network-n.com/vendorlist.json"},
+o}();var n=a.createElement("script");n.async=!0,n.src="https://cmp.network-n.com/js/cmp.complete.bundle.js",
+a.getElementsByTagName("head")[0].appendChild(n)}}(window,document);
+</script>
+<!-- GDPR Compliancy -->
+    <link rel="stylesheet" type="text/css" HREF="/spp-temp.css">
+
+  <link rel="search" href="/serebii-opensearch.xml" type="application/opensearchdescription+xml" title="Serebii Open Search" />
+   <LINK REL="SHORTCUT ICON" HREF="/favicon.ico">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-128947957-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-128947957-1');
+</script>
+<!-- Place the below code anywhere you like in the <head> (higher is better) -->
+<!-- Begin ComScore Tag -->
+<script>
+!function(o,n){if(o._localCS={consent:null,loaded:!1,tx:null},o._comscore=o._comscore||[],o.__cmp){
+o.__cmp("getVendorConsents",[77],function(o,c){function e(o){return"object"==typeof o}c&&(_localCS.consent=e(o)
+&&e(o.vendorConsents)&&o.vendorConsents[77],_localCS.consent=_localCS.consent?"1":"0",t())}),function c(){
+o.__cmp("ping",null,function(o){if(!1===o.cmpLoaded){if(null===_localCS.tx)return void(_localCS.tx=setTimeout(c,3e3));
+t()}o.cmpLoaded&&(clearTimeout(_localCS.tx),t())})}()}function t(){var o,c,e;_localCS.loaded||
+(_comscore.push({c1:"2",c2:"25110922",cs_ucfr:_localCS.consent}),c=(o=n).createElement("script"),
+e=o.getElementsByTagName("script")[0],c.async=!0,c.src=("https:"==o.location.protocol?"https://sb":"http://b")
++".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e),_localCS.loaded=!0)}o.__cmp||t()}(window,document);
+</script>
+<noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=25110922&cv=2.0&cj=1" /></noscript>
+<!-- End ComScore Tag --><script>window.AdSlots = window.AdSlots || {cmd: [], disableScripts: ['gpt','bk']};</script>
+<script async src="https://tags.bkrtx.com/js/bk-coretag.js"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<script src="/dist/serebii2.min.js" async></script>
+
+</head>
+
+<BODY  ondragstart="return false"  text=#000000 bottomMargin=0 bgcolor="#383838" 
+leftMargin=0 topMargin=0 rightMargin=0>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TPSZKKL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="1" background="/BannerBg.jpg">
+      <tr>
+        <td width="100%" background="/BannerBg.jpg" height="1">
+    <div align="center">
+    <font color="#000000">
+    <a href="/"><img border="0" src="/Banner.jpg" alt="Serebii.net Header"></a></font></td>
+      </tr>
+    </table>
+    <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" height="1">
+      <tr>
+        <td width="95%" height="1" colspan="3" bgcolor="#507C36" bordercolor="#111111">
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" height="1">
+			<td colspan="2" height="1">
+        <div id="menu"><b>Quick Links -</b> <a href="/index2.shtml">Home</a> - <a href="http://www.serebiiforums.com/" target="blank">Forums</a> - <a href="mailto:webmaster@serebii.net">Contact</a> - <a href="/discord.shtml">Discord</a> - <a href="/pokemon">Pokédex Hub</a> - <a href="/pokemongo/pokemon">GO Pokédex</a> - <a href="/pokedex-swsh">Sword & Shield Pokédex</a> - <a href="/pokearth">Pokéarth</a></div></td>
+<td align="right" width="300" height="1">
+<div id="menu">  <form id="searchbox_018410473690156091934:6gahkiyodbi" action="/search.shtml" style="margin:0px;">
+    <input type="hidden" name="cx" value="018410473690156091934:6gahkiyodbi" />
+    <input type="hidden" name="cof" value="FORID:11" />
+    <input name="q" type="text" size="20" />
+    <input type="submit" name="sa" value="Search" />
+  </form>
+  <script type="text/javascript" src="//www.google.com/coop/cse/brand?form=searchbox_018410473690156091934%3A6gahkiyodbi"></script>
+</div>
+</td>
+</tr>
+</table>
+</td>
+      </tr>
+
+<!--
+#######################################
+###############START LBAR #############
+#######################################
+-->
+
+<tr>
+<td width="1%" height="362" valign="top" bgcolor="#507C36" bordercolor="#111111">
+<div id="menu"><img src="/Toolbar/headers/SPP.gif" width="140" height="27" alt="Main Header"></a><br />
+<a href="/index2.shtml">News</a><br />
+<a href="/archive.shtml">Archived news</a><br />
+<a href="/pokemon/"><b>Pokédex</b></a><br />
+<a href="/pokedex/">-Red/Blue Pokédex</a><br />
+<a href="/pokedex-gs/">-Gold/Silver Pokédex</a><br />
+<a href="/pokedex-rs/">-Ruby/Sapphire Pokédex</a><br />
+<a href="/pokedex-dp/">-Diamond/Pearl Pokédex</a><br />
+<a href="/pokedex-bw/">-Black/White Pokédex</a><br />
+<a href="/pokedex-xy/">-X & Y Pokédex</a><br />
+<a href="/pokedex-sm/">-Sun & Moon Pokédex</a><br />
+<a href="/pokedex-sm/">-Let's Go Pokédex</a><br />
+<a href="/pokedex-swsh/">-Sword & Shield Pokédex</a><br />
+<b>Attackdex</b><br />
+<a href="/attackdex-rby/">-Gen 1 Attackdex</a><br />
+<a href="/attackdex-gs/">-Gen 2 Attackdex</a><br />
+<a href="/attackdex/">-Gen 3 Attackdex</a><br />
+<a href="/attackdex-dp/">-Gen 4 Attackdex</a><br />
+<a href="/attackdex-bw/">-Gen 5 Attackdex</a><br />
+<a href="/attackdex-xy/">-Gen 6 Attackdex</a><br />
+<a href="/attackdex-sm/">-Gen 7 Attackdex</a><br />
+<a href="/attackdex-swsh/">-Gen 8 Attackdex</a><br />
+<a href="/itemdex/">ItemDex</a><br />
+<a href="/pokearth/">Pokéarth</a><br />
+<a href="/abilitydex/">Abilitydex</a><br />
+<a href="/spindex/">Spin-Off Pokédex</a><br />
+<a href="/spindex-dp/">Spin-Off Pokédex DP</a><br />
+<a href="/spindex-bw/">Spin-Off Pokédex BW</a><br />
+<a href="/card/dex/">Cardex</a><br />
+<a href="/movies/dex/">Cinematic Pokédex</a><br />
+<a href="/games/mechanics.shtml">Game Mechanics</a><br />
+<a href="/games/iv-calcswsh.shtml">-Sword/Shield IV Calc.</a><br />
+<a href="/potw-swsh">Pokémon of the Week</a><br />
+<a href="/potw-swsh/">-8th Gen </a><br />
+<a href="/potw-sm/">-7th Gen </a><br />
+<a href="/potw-xy/">-6th Gen </a><br />
+<a href="http://www.serebiiforums.com" target="blank">Forums</a><br />
+<a href="/discord.shtml">Discord Chat</a><br />
+<a href="/games/currentevents.shtml">Current & Upcoming Events</a><br />
+<a href="/events">Event Database</a><br />
+<a href="/swordshield/pokemon.shtml">8th Generation Pokémon</a><br />
+<a href="/swordshield/dlcpokemon.shtml">-DLC Gen 8 Pokémon</a><br />
+<a href="/anime/"><img src="/Toolbar/headers/Anime.gif" border="0" width="140" height="27" alt="Anime Header"></a><br />
+<a href="/anime/epiguide/">Episode Listings & Pictures</a><br />
+<a href="/anime/dex/">AniméDex</a><br />
+<a href="/anime/characters/">Character Bios</a><br />
+<a href="/anime/epiguide/indigo/">The Indigo League</a><br />
+<a href="/anime/epiguide/orange/">The Orange League</a><br />
+<a href="/anime/epiguide/johto/">The Johto Saga</a><br />
+<a href="/anime/epiguide/houen/">The Saga in Hoenn!</a><br />
+<a href="/anime/epiguide/kanto/">Kanto Battle Frontier Saga!</a><br />
+<a href="/anime/epiguide/shinou/">The Sinnoh Saga!</a><br />
+<a href="/anime/epiguide/bestwishes/">Best Wishes - Unova Saga</a><br />
+<a href="/anime/epiguide/xy/">XY - Kalos Saga</a><br />
+<a href="/anime/epiguide/sunmoon/">Sun & Moon - Alola Saga</a><br />
+<a href="/anime/epiguide/pokemon/">Pokémon Journeys - Galar Saga</a><br />
+<a href="/anime/epiguide/chronicles/">Pokémon Chronicles</a><br />
+<a href="/anime/epiguide/generations/">Pokémon Generations</a><br />
+<a href="/anime/epiguide/twilightwings/">Pokémon Twilight Wings</a><br />
+<a href="/anime/epiguide/specials/">The Special Episodes</a><br />
+<a href="/anime/banned.shtml">The Banned Episodes</a><br />
+<a href="/anime/shiny/">Shiny Pokémon</a><br />
+<a href="/anime/movies/">Movies In Anime</a><br />
+<a href="/anime/gba/">GBA Video Listings</a><br />
+
+<a href="/games/"></a><img src="/Toolbar/headers/Games.gif" border="0" width="140" height="27" alt="Video Games Header"></b></a><br />
+<a href="/pokemon/generation8.shtml"><b>Gen VIII</b></a><br />
+<a href="/swordshield/">Sword & Shield</a><br />
+<a href="/pokemonhome/">Pokémon HOME</a><br />
+<a href="/pokemonmasters/">Pokémon Masters</a><br />
+<a href="/dungeonrescueteamdx/">Pokémon Mystery Dungeon Rescue Team DX</a><br />
+<a href="/pokemonsmile/">Pokémon Smile</a><br />
+<a href="/cafemix/">Pokémon Café Mix</a><br />
+<a href="/newpokemonsnap/">New Pokémon Snap</a><br />
+<a href="/pokemonsleep/">Pokémon Sleep</a><br />
+<a href="/detectivepikachu2/">Detective Pikachu 2</a><br />
+<a href="/pokemon/generation7.shtml"><b>Gen VII</b></a><br />
+<a href="/sunmoon/">Sun & Moon</a><br />
+<a href="/ultrasunultramoon/">Ultra Sun & Ultra Moon</a><br />
+<a href="/letsgopikachueevee/">Let's Go, Pikachu! & Let's Go, Eevee!</a><br />
+<a href="/pokemongo/">Pokémon GO</a><br />
+<a href="/magikarpjump/">Pokémon: Magikarp Jump</a><br />
+<a href="/rumblerush/">Pokémon Rumble Rush</a><br />
+<a href="/pokkendx/">Pokkén Tournament DX</a><br />
+<a href="/detective/">Detective Pikachu</a><br />
+<a href="/quest/">Pokémon Quest</a><br />
+<a href="/smashbrosultimate/">Super Smash Bros. Ultimate</a><br />
+<a href="/pokemon/generation6.shtml"><b>Gen VI</b></a><br />
+<a href="/xy/">X & Y</a><br />
+<a href="/omegarubyalphasapphire/">Omega Ruby & Alpha Sapphire</a><br />
+<a href="/bank/">Pokémon Bank</a><br />
+<a href="/battletrozei/">Pokémon Battle Trozei<br />Pokémon Link: Battle</a><br />
+<a href="/artacademy/">Pokémon Art Academy</a><br />
+<a href="/bandofthieves/">The Band of Thieves & 1000 Pokémon</a><br />
+<a href="/shuffle/">Pokémon Shuffle</a><br />
+<a href="/rumbleworld/">Pokémon Rumble World</a><br />
+<a href="/supermysterydungeon/">Pokémon Super Mystery Dungeon</a><br />
+<a href="/picross/">Pokémon Picross</a><br />
+<a href="/detective/">Detective Pikachu</a><br />
+<a href="/pokken/">Pokkén Tournament</a><br />
+<a href="/duel/">Pokémon Duel</a><br />
+<a href="/smashbros3dswiiu/">Smash Bros for 3DS/Wii U</a><br />
+<a href="/games/badge/">Nintendo Badge Arcade</a><br />
+<a href="/pokemon/generation5.shtml"><b>Gen V</b></a><br />
+<a href="/blackwhite/">Black & White</a><br />
+<a href="/black2white2/">Black 2 & White 2</a><br />
+<a href="/dreamradar/">Pokémon Dream Radar</a><br />
+<a href="/trettalab/">Pokémon Tretta Lab</a><br />
+<a href="/rumbleu/">Pokémon Rumble U</a><br />
+<a href="/dungeoninfinity/">Mystery Dungeon: Gates to Infinity</a><br />
+<a href="/conquest/">Pokémon Conquest</a><br />
+<a href="/pokepark2/">PokéPark 2: Wonders Beyond</a><br />
+<a href="/rumble2/">Pokémon Rumble Blast</a><br />
+<a href="/pokedex3d/">Pokédex 3D</a><br />
+<a href="/pokedex3dpro/">Pokédex 3D Pro</a><br />
+<a href="/typingds/">Learn With Pokémon: Typing Adventure</a><br />
+<a href="/card/howtoplayds/">TCG How to Play DS</a><br />
+<a href="/pokedexios/">Pokédex for iOS</a><br />
+<a href="/pokemon/generation4.shtml"><b>Gen IV</b></a><br />
+<a href="/diamondpearl/">Diamond & Pearl</a><br />
+<a href="/platinum/">Platinum</a><br />
+<a href="/heartgoldsoulsilver/">Heart Gold & Soul Silver</a><br />
+<a href="/ranger3/">Pokémon Ranger: Guardian Signs</a><br />
+<a href="/melee/">Pokémon Rumble</a><br />
+<a href="/dungeon3/">Mystery Dungeon: Blazing, Stormy & Light Adventure Squad</a><br />
+<a href="/pokepark/">PokéPark Wii - Pikachu's  Adventure</a><br />
+<a href="/battle/">Pokémon Battle Revolution</a><br />
+<a href="/dungeonsky/">Mystery Dungeon - Explorers of Sky</a><br />
+<a href="/ranger2/">Pokémon Ranger: Shadows of Almia</a><br />
+<a href="/dungeon2/">Mystery Dungeon - Explorers of Time & Darkness</a><br />
+<a href="/ranch/">My Pokémon Ranch</a><br />
+<a href="/battrio/">Pokémon Battrio</a><br />
+<a href="/ssbb/">Smash Bros Brawl</a><br />
+<a href="/pokemon/generation3.shtml"><b>Gen III</b></a><br />
+<a href="/rubysapphire/">Ruby & Sapphire</a><br />
+<a href="/fireredleafgreen/">Fire Red & Leaf Green</a><br />
+<a href="/emerald/">Emerald</a><br />
+<a href="/colosseum/">Pokémon Colosseum</a><br />
+<a href="/xd/">Pokémon XD: Gale of Darkness</a><br />
+<a href="/dash/">Pokémon Dash</a><br />
+<a href="/pokemon_channel/">Pokémon Channel</a><br />
+<a href="/pokemon_box/">Pokémon Box: RS</a><br />
+<a href="/pinball_rs/">Pokémon Pinball RS</a><br />
+<a href="/ranger/">Pokémon Ranger</a><br />
+<a href="/mysteriousdungeon/">Mystery Dungeon Red & Blue</a><br />
+<a href="/torouze/">PokémonTrozei</a><br />
+<a href="/pikachu/">Pikachu DS Tech Demo</a><br />
+<a href="/pokeparkfish/">PokéPark Fishing Rally</a><br />
+<a href="/e-reader/">The E-Reader</a><br />
+<a href="/pokemate/">PokéMate</a><br />
+<a href="/pokemon/generation2.shtml"><b>Gen II</b></a><br />
+<a href="/gs/">Gold/Silver</a><br />
+<a href="/crystal/">Crystal</a><br />
+<a href="/stadium2/">Pokémon Stadium 2</a><br />
+<a href="/puzzlechallenge/">Pokémon Puzzle Challenge</a><br />
+<a href="/mini/">Pokémon Mini</a><br />
+<a href="/smash_bros_2/">Super Smash Bros. Melee</a><br />
+<a href="/pokemon/generation1.shtml"><b>Gen I</b></a><br />
+<a href="/rb/">Red, Blue & Green</a><br />
+<a href="/yellow/">Yellow</a><br />
+<a href="/puzzleleague/">Pokémon Puzzle League</a><br />
+<a href="/snap/">Pokémon Snap</a><br />
+<a href="/pinball/">Pokémon Pinball </a><br />
+<a href="/stadiumjp/">Pokémon Stadium (Japanese)</a><br />
+<a href="/stadium/">Pokémon Stadium </a><br />
+<a href="/tradingcardgamegb/">Pokémon Trading Card Game GB </a><br />
+<a href="/smash_bros/">Super Smash Bros. </a><br />
+<b>Miscellaneous</b><br />
+<a href="/games/mechanics.shtml">Game Mechanics</a><br />
+<a href="/vgc">Video Game Championships</a><br />
+<a href="/games/others.shtml">In Other Games </a><br />
+<a href="/games/virtualconsole.shtml">Virtual Console </a><br />
+<a href="/games/consoles.shtml">Special Edition Consoles </a><br />
+<a href="/games/themes.shtml">Pokémon 3DS Themes</a><br />
+<a href="/apps">Smartphone & Tablet Apps </a><br />
+<a href="/virtualpet">Virtual Pets</a><br />
+<a href="/amiibo">amiibo</a><br />
+
+<a href="/manga/"><img src="/Toolbar/headers/Manga.gif" border="0" width="140" height="27" alt="Manga Header"></a><br />
+<a href="/manga/">General Information</a><br />
+<a href="/manga/dex">MangaDex</a><br />
+<a href="/manga/characters">Character BIOs</a><br />
+<a href="/manga/characters-new">Detailed BIOs</a><br />
+<a href="/manga/chapter.shtml">Chapter Guides</a><br />
+<a href="/manga/volume.shtml">Volume Guides</a><br />
+<a href="/manga/rby/">RBG Series</a><br />
+<a href="/manga/yellow/">Yellow Series</a><br />
+<a href="/manga/gsc/">GSC Series</a><br />
+<a href="/manga/rs/">RS Series</a><br />
+<a href="/manga/frlg/">FRLG Series</a><br />
+<a href="/manga/bf/">Emerald Series</a><br />
+<a href="/manga/dp/">DP Series</a><br />
+<a href="/manga/pt/">Platinum Series</a><br />
+<a href="/manga/hgss/">HGSS Series</a><br />
+<a href="/manga/bw/">BW Series</a><br />
+<a href="/manga/b2w2/">B2W2 Series</a><br />
+<a href="/manga/xy/">XY Series</a><br />
+<a href="/manga/oras/">ORAS Series</a><br />
+<a href="/manga/sunmoon/">SM Series</a><br />
+
+<a href="/movies/"><img src="/Toolbar/headers/Movies.gif" border="0" width="140" height="27" alt="Movies Header"></a><br />
+<b>Anime</b><br />
+<a href="/movies/mewtwo/origin/">The Origin of Mewtwo </a><br />
+<a href="/movies/mewtwo/">Mewtwo Strikes Back </a><br />
+<a href="/movies/lugia/">The Power of One </a><br />
+<a href="/movies/entei/">Spell Of The Unown </a><br />
+<a href="/anime/epiguide/specials/002.shtml">Mewtwo Returns </a><br />
+<a href="/movies/serebii/">Celebi: Voice of the Forest</a><br />
+<a href="/movies/latias_latios/">Pokémon Heroes</a><br />
+<a href="/movies/jirachi/">Jirachi - Wish Maker</a><br />
+<a href="/movies/deoxys/">Destiny Deoxys!</a><br />
+<a href="/movies/mew/">Lucario and the Mystery of Mew!</a><br />
+<a href="/movies/kyogre/">Pokémon Ranger & The Temple of the Sea!</a><br />
+<a href="/movies/dp/">The Rise of Darkrai!</a><br />
+<a href="/movies/giratina/">Giratina & The Sky Warrior!</a><br />
+<a href="/movies/arceus/">Arceus and the Jewel of Life</a><br />
+<a href="/movies/celebi/">Zoroark - Master of Illusions</a><br />
+<a href="/movies/victini/">Black: Victini & Reshiram<br />White: Victini & Zekrom</a><br />
+<a href="/movies/kyurem/">Kyurem VS The Sword of Justice</a><br />
+<a href="/movies/meloetta/">-Meloetta's Midnight Serenade</a><br />
+<a href="/movies/genesect/">Genesect and the Legend Awakened</a><br />
+<a href="/movies/xy/">Diancie & The Cocoon of Destruction</a><br />
+<a href="/movies/hoopa/">Hoopa & The Clash of Ages</a><br />
+<a href="/movies/volcanion/">Volcanion and the Mechanical Marvel</a><br />
+<a href="/movies/pokemon20/">Pokémon I Choose You!</a><br />
+<a href="/movies/thepowerofus/">Pokémon The Power of Us</a><br />
+<a href="/movies/mewtwoevolution/">Mewtwo Strikes Back Evolution</a><br />
+<a href="/movies/coco/">Coco</a><br />
+<b>Live Action</b><br />
+<a href="/movies/detectivepikachu/">Pokémon's Detective Pikachu</a><br />
+<b>Sections</b><br />
+<a href="/movies/dex/">Cinematic Pokédex</a><br />
+<a href="/movies/biography/">Live Action Character Biographies</a><br />
+
+<a href="/movies/"><img src="/Toolbar/headers/PikachuShorts.gif" border="0" width="140" height="27" alt="Pikachu Shorts Header"></a><br />
+<a href="/movies/pikachu1/">Pikachu's Summer Vacation</a><br />
+<a href="/movies/pikachu2/">Pikachu's Rescue Adventure</a><br />
+<a href="/movies/pikachu3/">Pikachu And Pichu </a><br />
+<a href="/movies/pikachu4/">Pikachu's PikaBoo </a><br />
+<a href="/movies/pikachu5/">Camp Pikachu!</a><br />
+<a href="/movies/pikachu6/">Gotta Dance!!</a><br />
+<a href="/movies/pikachu7/">Pikachu's Summer Festival!</a><br />
+<a href="/movies/pikachu8/">Pikachu's Ghost Festival!</a><br />
+<a href="/movies/pikachu9/">Pikachu's Island Adventure!</a><br />
+<a href="/movies/pikachu10/">Pikachu's Exploration Club</a><br />
+<a href="/movies/pikachu11/">Pikachu's Great Ice Adventure</a><br />
+<a href="/movies/pikachu12/">Pikachu's Sparkling Search</a><br />
+<a href="/movies/pikachu13/">Pikachu's Really Mysterious Adventure</a><br />
+<a href="/movies/eevee/">Eevee & Friends</a><br />
+<a href="/movies/klefki/">Pikachu, What's This Key?</a><br />
+<a href="/movies/pikachumusic/">Pikachu & The Pokémon Music Squad</a><br />
+
+<img src="/Toolbar/headers/TradingCards.gif" border="0" width="140" height="27" alt="Trading Card Game Header"></a><br />
+<a href="/card/dex/">Cardex</a><br /> 
+<a href="/card/dex/extra">-Extra Pokémon Types</a><br /> 
+<a href="/card/dex/trainers">Trainer Cards</a><br /> 
+<a href="/card/dex/energy">Energy Cards</a><br /> 
+<a href="/card/dex/extra/altart.shtml">Alternate Art Cards</a><br /> 
+<a href="/card/english.shtml"><b>English Sets</b></a><br /> 
+<a href="/card/rebelclash">-Rebel Clash</a><br /> 
+<a href="/card/swordshield">-Sword & Shield</a><br /> 
+<a href="/card/cosmiceclipse">-Cosmic Eclipse</a><br /> 
+<a href="/card/hiddenfates">-Hidden Fates</a><br /> 
+<a href="/card/unifiedminds">-Unified Minds</a><br /> 
+<a href="/card/unbrokenbonds">-Unbroken Bonds</a><br /> 
+<a href="/card/pokemondetectivepikachu">-Detective Pikachu</a><br /> 
+<a href="/card/teamup">-Team Up</a><br /> 
+<a href="/card/lostthunder">-Lost Thunder</a><br /> 
+<a href="/card/dragonmajesty">-Dragon Majesty</a><br /> 
+<a href="/card/celestialstorm">-Celestial Storm</a><br /> 
+<a href="/card/forbiddenlight">-Forbidden Light</a><br /> 
+<a href="/card/ultraprism">-Ultra Prism</a><br /> 
+<a href="/card/shininglegends">-Shining Legends</a><br /> 
+<a href="/card/crimsoninvasion">-Crimson Invasion</a><br /> 
+<a href="/card/burningshadows">-Burning Shadows</a><br /> 
+<a href="/card/guardiansrising">-Guardians Rising</a><br /> 
+<a href="/card/sunmoon">-Sun & Moon</a><br /> 
+<a href="/card/xy.shtml">-XY Series</a><br /> 
+<a href="/card/bw.shtml">-BW Series</a><br /> 
+<a href="/card/dpt.shtml">-DPtHS Series</a><br /> 
+<a href="/card/ex.shtml">-EX Series</a><br /> 
+<a href="/card/neo.shtml">-Neo/eSeries</a><br /> 
+<a href="/card/first.shtml">-First Gen Series</a><br /> 
+<a href="/card/engpromo.shtml"><b>English Promos</b></a><br /> 
+<a href="/card/swshpromos">-SWSH Promos</a><br /> 
+<a href="/card/smpromos">-SM Promos</a><br /> 
+<a href="/card/xypromos">-XY Promos</a><br /> 
+<a href="/card/bwpromos">-BW Promos</a><br /> 
+<a href="/card/hgsspromo">-HGSS Promo</a><br /> 
+<a href="/card/popseries.shtml">-POP Series</a><br /> 
+<a href="/card/japanese.shtml"><b>Japanese Sets</b></a><br /> 
+<a href="/card/infinityzone">-Infinity Zone</a><br />
+<a href="/card/explosivewalker">-Explosive Walker</a><br />
+<a href="/card/rebelliousclash">-Rebellious Clash</a><br /><a href="/card/sword">-Sword</a><br />
+<a href="/card/shield">-Shield</a><br />
+<a href="/card/tagallstars">-Tag All Stars</a><br />
+<a href="/card/altergenesis">-Alter Genesis</a><br />
+<a href="/card/dreamleague">-Dream League</a><br />
+<a href="/card/remixbout">-Remix Bout</a><br />
+<a href="/card/miracletwin">-Miracle Twin</a><br />
+<a href="/card/skylegend">-Sky Legend</a><br />
+<a href="/card/ggend">-GG End</a><br />
+<a href="/card/doubleblaze">-Double Blaze</a><br />
+<a href="/card/fullmetalwall">-Full Metal Wall</a><br />
+<a href="/card/nightunison">-Night Unison</a><br />
+<a href="/card/tagbolt">-Tag Bolt</a><br />
+<a href="/card/gxultrashiny">-GX Ultra Shiny</a><br />
+<a href="/card/vs">-Pokémon VS</a><br /> 
+<a href="/card/jppromo.shtml"><b>Japanese Promos</b></a><br /> 
+<a href="/card/spromo">-S Promos</a><br /> 
+<a href="/card/smpromo">-SM Promos</a><br /> 
+<a href="/card/xypromo">-XY Promos</a><br /> 
+</div>
+</td>
+<td width="99%" height="362" valign="top" bordercolor="#111111">
+<font face="Verdana" size="1" color="#FFFFFF"><div align="center" style="margin-top:10px;padding-bottom: 4px">
+<div id="nn_lb1"></div>
+</div>
+<!--
+#######################################
+###############START Page #############
+#######################################
+-->
+<div align="center"><img src="trade1-2.png"></div><p>
+Trading is a pivitol part in Pokémon to get you to complete your Pokédex...in the game there are several trade areas where you are capable of trading for in-game Pokémon. They always come attached with a bit of Mail and are always have the same EVs and levels as the Pokémon you sent over. So if you sent a Lv. 5 Skitty over, you'ld get a Lv. 5 Meowth:<p>
+
+<div align="center"><b><u>Fortree City</u></b><p>
+<img src="trade3-1.png"></div><p>
+This trainer in a house on Fortree City is looking for a Volbeat<p>
+<table  width="100%" border="1" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="2" width="50%"><font size="1">
+		<b>Pokémon You Send</b>
+		</td>
+		<td colspan="2"><font size="1">
+		<b>Pokémon They Send</b>
+		</td>
+	</tr>
+	<tr>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=313"><img src="/emerald/pokemon/313.png" border=></a>	
+		</td>
+		<td width="44%"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=313">#313 Volbeat</a><br>
+		&nbsp;
+		</td>
+		<td ><font size="1">
+		<img src="/emerald/items/slakoth-mail.gif" align="left"><a href="/pokedex-rs/dex.php?id=311">#311 Plusle</a><br>
+		Wood Mail Attached
+		</td>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=311"><img src="/emerald/pokemon/311.png" border=></a>	
+		</td>
+	</tr>
+</table><p>
+<div align="center"><b><u>Pacifidlog Town</u></b><p>
+<img src="trade2-1.png"></div><p>
+This trainer in a house on Pacifidlog is looking for a Bagon<p>
+<table  width="100%" border="1" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="2" width="50%"><font size="1">
+		<b>Pokémon You Send</b>
+		</td>
+		<td colspan="2"><font size="1">
+		<b>Pokémon They Send</b>
+		</td>
+	</tr>
+	<tr>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=371"><img src="/emerald/pokemon/371.png" border=></a>	
+		</td>
+		<td width="44%"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=371">#371 Bagon</a><br>
+		&nbsp;
+		</td>
+		<td ><font size="1">
+		<img src="/emerald/items/wailmer-mail.gif" align="left"><a href="/pokedex-rs/dex.php?id=116">#116 Horsea</a><br>
+		Wave Mail Attached
+		</td>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=116"><img src="/emerald/pokemon/116.png" border=></a>	
+		</td>
+	</tr>
+</table><p>
+<div align="center"><b><u>Battle Frontier</u></b><p>
+<img src="trade1-1.png"></div><p>
+This trainer in a house in the Battle Frontier is looking for a Skitty<p>
+<table  width="100%" border="1" cellspacing="0" cellpadding="4">
+	<tr>
+		<td colspan="2" width="50%"><font size="1">
+		<b>Pokémon You Send</b>
+		</td>
+		<td colspan="2"><font size="1">
+		<b>Pokémon They Send</b>
+		</td>
+	</tr>
+	<tr>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=300"><img src="/emerald/pokemon/300.png" border=></a>	
+		</td>
+		<td width="44%"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=300">#300 Skitty</a><br>
+		&nbsp;
+		</td>
+		<td ><font size="1">
+		<img src="/emerald/items/retro-mail.gif" align="left"><a href="/pokedex-rs/dex.php?id=52">#052 Meowth</a><br>
+		Retro Mail Attached
+		</td>
+		<td width="64" align="center"><font size="1">
+		<a href="/pokedex-rs/dex.php?id=52"><img src="/emerald/pokemon/052.png" border=></a>	
+		</td>
+	</tr>
+</table><p>
+
+
+
+       </center>
+      </td>
+        <td width="1%" height="86" valign="top" bgcolor="#507C36"><div id="menu">      <img src="/Toolbar/headers/GameNames.gif" width="140" height="27"><br />
+<a href="#">Pokémon Emerald<br />&#12509;&#12465;&#12483;&#12488;&#12514;&#12531;&#12473;&#12479;&#12540; &#12456;&#12513;&#12521;&#12523;&#12489;</a><br />
+          <img src="/Toolbar/headers/Console.gif" width="140" height="27"><br />
+<a href="#"><img src="/pokemon_advance/gba.gif" border=0 width=132><br />Gameboy Advance</a><br />
+
+          <img src="/Toolbar/headers/Sections.gif" width="140" height="27"><br />
+<a href="/emerald/">Information</a><br />
+<a href="/emerald/pics.shtml">Pictures</a><br />
+<a href="/emerald/story.shtml">Story</a><br />
+<a href="/emerald/frontier.shtml">Battle Frontier</a><br />
+<a href="/emerald/tube.shtml">Battle Pike</a><br />
+<a href="/emerald/dome.shtml">Battle Dome</a><br />
+<a href="/emerald/factory.shtml">Battle Factory</a><br />
+<a href="/emerald/arena.shtml">Battle Arena</a><br />
+<a href="/emerald/palace.shtml">Battle Palace</a><br />
+<a href="/emerald/pyramid.shtml">Battle Pyramid</a><br />
+<a href="/emerald/tower.shtml">Battle Tower</a><br />
+<a href="/emerald/tent.shtml">Battle Tents</a><br />
+<a href="/emerald/baseshop.shtml">Battle Shop</a><br />
+<a href="/emerald/worldsedgeisland.shtml">Faraway Island</a><br />
+<a href="/emerald/navelrock.shtml">Navel Rock</a><br />
+<a href="/emerald/birthisland.shtml">Birth Island</a><br />
+<a href="/emerald/seacave.shtml">Marine Cave</a><br />
+<a href="/emerald/shorecave.shtml">Terra Cave</a><br />
+<a href="/emerald/studiocave.shtml">Artisan Cave</a><br />
+<a href="/emerald/illusionpillar.shtml">Mirage Tower</a><br />
+<a href="/emerald/tunnel.shtml">Desert Underpass</a><br />
+<a href="/emerald/magmahideout.shtml">Magma's Hideout</a><br />
+<a href="/emerald/johtostarter.shtml">Johto Starters</a><br />
+<a href="/emerald/trainertower.shtml">Trainer Hill</a><br />
+<a href="/emerald/southern.shtml">Southern Island</a><br />
+<a href="/emerald/mirage.shtml">Mirage Island</a><br />
+<a href="/emerald/safarizone.shtml">Safari Zone</a><br />
+<a href="/emerald/altering.shtml">Altering Cave</a><br />
+<a href="/emerald/movetutor.shtml">Move Tutor's</a><br />
+<a href="/emerald/movetutor-battle.shtml">Move Tutor - Battle Frontier</a><br />
+<a href="/emerald/missing.shtml">Missing Pokémon</a><br />
+<a href="/emerald/trade.shtml">In Game Trades</a><br />
+<a href="/emerald/frontierpass.shtml">Frontier Pass</a><br />
+<a href="/emerald/oneoff.shtml">One Off Pokémon</a><br />
+<a href="/emerald/regi.shtml">The Regi Way</a><br />
+<a href="/emerald/gym.shtml">Updated Gyms & Gym Rosters</a><br />
+<a href="/emerald/elite.shtml">Elite 4 Upgrades</a><br />
+<a href="/emerald/frontierleader.shtml">Frontier Leaders</a><br />
+<a href="/emerald/steven.shtml">The True Champion</a><br />
+<a href="/emerald/entrycall.shtml">Match Call</a><br />
+<a href="/emerald/contest.shtml">Pokémon Contests</a><br />
+<a href="/emerald/recordhall.shtml">Record Hall</a><br />
+<a href="/emerald/box.shtml">Special Box Papers</a><br />
+<a href="/emerald/volttackle.shtml">Volt Tackle</a><br />
+<a href="/emerald/breed.shtml">Breeding Additions</a><br />
+<a href="/emerald/ability.shtml">Ability Additions</a><br />
+<a href="/emerald/national.shtml">National Dex</a><br />
+<a href="/emerald/enshida.shtml">Scott</a><br />
+<a href="/emerald/double.shtml">Double Battles</a><br />
+<a href="/emerald/truedouble.shtml">True Double Battles</a><br />
+<a href="/emerald/items.shtml">Items</a><br />
+<a href="/emerald/berries.shtml">Berries</a><br />
+<a href="/emerald/pickup.shtml">Pick-Up</a><br />
+<a href="/emerald/deoxys.shtml">New Deoxys</a><br />
+<a href="/emerald/characters.shtml">New Characters</a><br />
+<a href="/emerald/ecard.shtml">E-Card Features</a><br />
+<a href="/emerald/apprentice.shtml">Your Apprentice</a><br />
+<a href="/pokedex-rs/">Pokédex</a><br />
+<a href="/pokedex-rs/ev.shtml">EV Guides</a><br />
+<a href="/games/hidden-power.shtml">Hidden Power</a><br />
+<a href="/games/ivs.shtml">Individual Values</a><br />
+<a href="/emerald/berryfix.shtml">Berry Fix</a><br />
+          <img src="/Toolbar/headers/FieldPicture.gif" width="140" height="27"><br />
+<img src="/emerald/toolbar1.png" width="140"><br />
+          <img src="/Toolbar/headers/Details.gif" width="140" height="27"><br />
+<b>Developer:</b><div align="right">GameFreak</div>
+<b>Genre:</b><div align="right">RPG</div>
+<b>Players:</b><div align="right">1-4</div>
+<img src="/Toolbar/headers/ReleaseDate.gif" width="140" height="27"><br />
+<b>Japan</b>: September 16th 2004<br />
+<b>US</b>: May 1st 2005<br />
+<b>Europe</b>: October 21st 2005
+</div>
+            </td>
+      </tr>
+    </table>
+      
+    &nbsp;
+    
+      <center>
+      <table border="1" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="93%" bordercolor="#000000">
+        <tr>
+          <td width="28%" bgcolor="#507C36" valign="top">
+          <font SIZE="1" face="Verdana" color="#000000">All Content is 
+          ©Copyright of Serebii.net 1999-2019. | <a href="/privacy.shtml"><font color="#000000">Privacy Policy</font></a> | <a style="cursor:pointer" onclick="window.__cmp('showConsentModal')"><font color="#000000">Manage Cookie Settings</font></a><br />
+Pokémon And All Respective Names are Trademark & &copy; of Nintendo 1996-2019</font></b></td>
+          <td width="12%" bgcolor="#507C36" valign="top">
+          
+<div id="menu"><b>Navigation<br />
+          </b><a href="javascript:history.back()">Back</a> - <a href="javascript:history.forward()">Forward</a> - <a href="#top">Top</a></div></td>
+        </tr>
+      </table>
+      </center>
+<br /><div align="center" style="height:102px"><div id="nn_lb2"></div></div>
+    <p>&nbsp;  </body>
+</html>
+<!--
+#######################################
+###############START Page #############
+#######################################
+-->
+
+</body>
+
+</html>
+
